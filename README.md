@@ -6,7 +6,7 @@
  * 사용 방법 : 파일 하나를 불러와서 빈도분석 가능
  * [코드연결](test.py)
    
-![텍스트마이닝](https://unsplash.com/ko/%EC%82%AC%EC%A7%84/%EB%8D%B0%EB%B0%94%EB%82%98%EA%B0%80%EB%A6%AC-%EB%AC%B8%EC%9E%90%EC%A7%91%EC%9D%84-%EA%B0%80%EB%A6%AC%ED%82%A4%EB%8A%94-%EC%95%84%EC%9D%B4%EC%9D%98-%EC%86%90-6d0LRYcuSuw?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash)
+![강아지](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHQQdAY4HvcdOtRxApXStj7oRvUNKlATHpWA&s)
 
  ### ChatGPT가 알려준 가위바위보 게임 프로그램
  * 내용 : 가위바위보 게임
